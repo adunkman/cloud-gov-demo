@@ -1,7 +1,6 @@
 ---
 applications:
-- name: cloud.gov-demo
-  random-route: true
+- name: cloud-gov-demo-yellow-frog
   buildpacks:
     - nodejs_buildpack
   memory: 256M
