@@ -1,6 +1,5 @@
 ---
 applications:
-- name: cloud-gov-demo
-  random-route: true
+- name: cloud-gov-demo-koala
   buildpack: nodejs_buildpack
   memory: 256M
