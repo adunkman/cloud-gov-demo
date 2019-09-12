@@ -1,0 +1,7 @@
+---
+applications:
+- name: cloud.gov-demo
+  random-route: true
+  buildpacks:
+    - nodejs_buildpack
+  memory: 256M
